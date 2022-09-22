@@ -3,4 +3,4 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 title: [Diego Trazzi]
-description: [A short description of computer science things]
+description: [Some computer science things]
